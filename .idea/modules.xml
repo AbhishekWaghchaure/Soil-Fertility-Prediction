@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../SEM 2/DGM/.idea/DGM.iml" filepath="$PROJECT_DIR$/../../../SEM 2/DGM/.idea/DGM.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/PWSkillsDataScience/.idea/PWSkillsDataScience.iml" filepath="$USER_HOME$/Desktop/PWSkillsDataScience/.idea/PWSkillsDataScience.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Soil Fertility Prediction .iml" filepath="$PROJECT_DIR$/.idea/Soil Fertility Prediction .iml" />
     </modules>
   </component>
